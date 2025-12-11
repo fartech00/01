@@ -1,0 +1,6 @@
+train: /content/01/DATA/data/images/train
+val: /content/01/DATA/data/images/val
+
+nc: 2
+
+names: ['sher', 'zebra']
